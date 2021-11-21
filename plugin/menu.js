@@ -46,10 +46,8 @@ const defaultMenu = {
 │
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
-│ Github :
-│ https://github.com/LitRHap/wabot
-│ Instagram :
-│ https://instagram.com/loli._.school
+│ Owner : https://wa.me/6289526350998
+│ Owner : https://wa.me/6289526350998
 ╰────
 %readmore`.trimStart(),
   header: '┏┉┄┈┈┈『%category』┈┈┈┈┈┉┓',
